@@ -1,7 +1,7 @@
-TEO developers group
+TEO DEV group
 ===
 
-We created **TEO**, the **schema-centered** web framework for Rust, Node.js and Python.
+**TEO**, modern ORM for Rust.
 
 Our homepage: https://teodev.io
 
